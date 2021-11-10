@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  重定向NGA所有域名至 nga.178.com
 // @include      *://*.ngacn.cc/*
-// @include      *://nga.178.com/*
+// @include      *://bbs.nga.cn/*
 // @include      *://ngabbs.com/*
 // @author       created by 咕德 @ WoW-玛洛加尔-<蓝丨图>, updated by Xusser
 // @grant        none
