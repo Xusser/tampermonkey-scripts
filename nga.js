@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NGA网址重定向
 // @namespace    https://github.com/Xusser/tampermonkey-scripts/blob/master/nga.js
-// @version      0.2
+// @version      0.3
 // @description  重定向NGA所有域名至 nga.178.com
 // @include      *://*.ngacn.cc/*
 // @include      *://bbs.nga.cn/*
@@ -11,4 +11,4 @@
 // @run-at       document-start
 // ==/UserScript==
 
-document.location.href = document.location.href.replace('bbs.nga.cn', 'nga.178.com').replace('ngacn.cc', 'nga.cn').replace('ngabbs.com', 'nga.178.com');
+document.location.href = document.location.href.replace('bbs.nga.cn', 'ngabbs.com').replace('ngacn.cc', 'ngabbs.com').replace('nga.178.com', 'ngabbs.com');
