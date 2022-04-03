@@ -8,6 +8,7 @@
 // @include      *://*.ngacn.cc/*
 // @include      *://bbs.nga.cn/*
 // @include      *://nga.178.com/*
+// @include      *://g.nga.cn/*
 // @include      *://yues.org/*
 // @author       created by 咕德 @ WoW-玛洛加尔-<蓝丨图>, updated by Xusser
 // @grant        none
@@ -16,4 +17,4 @@
 
 var target_host = 'ngabbs.com';
 
-document.location.href = document.location.href.replace('yues.org', target_host).replace('bbs.nga.cn', target_host).replace('ngacn.cc', target_host).replace('nga.178.com', target_host);
+document.location.href = document.location.href.replace('g.nga.cn', target_host).replace('yues.org', target_host).replace('bbs.nga.cn', target_host).replace('ngacn.cc', target_host).replace('nga.178.com', target_host);
