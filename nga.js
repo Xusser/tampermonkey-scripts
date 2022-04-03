@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         NGA网址重定向
 // @namespace    https://github.com/Xusser/tampermonkey-scripts/blob/master/nga.js
-// @version      0.5
+// @version      0.6
 // @description  重定向NGA所有域名至 nga.178.com
 // @updateURL    https://raw.githubusercontent.com/Xusser/tampermonkey-scripts/master/nga.js
 // @downloadURL  https://raw.githubusercontent.com/Xusser/tampermonkey-scripts/master/nga.js
